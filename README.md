@@ -1,5 +1,6 @@
 # markdown_test
 
+<pre>
 .
 |- data 
 |  |- clean									# 
@@ -15,3 +16,4 @@
 |
 +- parameters
    +- training_days.csv
+</pre>
